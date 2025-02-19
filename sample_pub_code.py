@@ -6,7 +6,7 @@ from awscrt import io, mqtt, auth, http
 from awsiot import mqtt_connection_builder
 
 # AWS IoT Core Configuration
-ENDPOINT = "a2hahzzp49dpz0-ats.iot.us-east-1.amazonaws.com"
+ENDPOINT = "change this"
 CLIENT_ID = "sample_client"
 TOPIC = "temp"
 
