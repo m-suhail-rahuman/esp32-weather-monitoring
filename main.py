@@ -4,7 +4,7 @@ import random
 from umqtt.simple import MQTTClient
 
 # AWS IoT Core Config
-BROKER_ENDPOINT = "a2hahzzp49dpz0-ats.iot.us-east-1.amazonaws.com"  # Replace with your endpoint
+BROKER_ENDPOINT = ""  # Replace with your endpoint
 CLIENT_ID = "esp8266_client"
 TOPIC = "temp"  # Your AWS IoT topic
 
