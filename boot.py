@@ -1,8 +1,8 @@
 import network
 import time
 
-SSID = "Galaxy"       # Your Wi-Fi SSID
-PASSWORD = "rdfz1225"  # Your Wi-Fi Password
+SSID = "xyz"       # Your Wi-Fi SSID
+PASSWORD = "xyz"  # Your Wi-Fi Password
 
 def connect_to_wifi():
     wlan = network.WLAN(network.STA_IF)
